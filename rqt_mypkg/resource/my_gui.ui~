@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Ptyxio</class>
+ <widget class="QWidget" name="Ptyxio">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>943</width>
+    <height>325</height>
+   </rect>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <property name="spacing">
+    <number>0</number>
+   </property>
+   <property name="margin">
+    <number>0</number>
+   </property>
+   <item>
+    <widget class="QPushButton" name="action1_button">
+       <property name="toolTip">
+        <string>Action 1</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="iconSize">
+        <size>
+         <width>16</width>
+         <height>16</height>
+        </size>
+       </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="action2_button">
+       <property name="toolTip">
+        <string>Action 2</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="iconSize">
+        <size>
+         <width>16</width>
+         <height>16</height>
+        </size>
+       </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label1">
+       <property name="text">
+       <string>twra den kanw tipota</string>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+<resources/>
+<connections/>
+</ui>
+
